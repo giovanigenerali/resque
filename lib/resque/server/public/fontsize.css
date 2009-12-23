@@ -1,0 +1,23 @@
+#fontsize {
+	padding: 8px 10px;
+	text-align: right;
+	overflow: hidden;
+}
+#fontsize span {
+	background: #DDDDDD;
+	border: 1px dotted #BCBCBC;
+	cursor: pointer;
+	padding: 0 12px;
+	margin: 0 2px;
+	text-align: center;
+}	
+#fontsize span a {
+	color: #111111;
+	text-decoration: none;
+}
+#fontsize span#small a {
+	font-size: 0.8em;
+}	
+#fontsize span#large a {
+	font-size: 1em;
+}
